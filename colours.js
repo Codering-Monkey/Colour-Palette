@@ -76,4 +76,11 @@ export const colour = [
 		"light" : "#EFF4F5",
 		"contrast" : "#FF7350"
 	},
+	{
+		"name" : "Formal",
+		"main" : "#563C50",
+		"dark" : "#371D31",
+		"light" : "#EDD1CB",
+		"contrast" : "#F95950"
+	},
 ]
