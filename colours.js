@@ -62,4 +62,11 @@ export const colour = [
 		"light" : "#FAF7F5",
 		"contrast" : "#AAD1D9"
 	},
+	{
+		"name" : "Redwood",
+		"main" : "#E04255",
+		"dark" : "#7B3638",
+		"light" : "#FCEEDD",
+		"contrast" : "#A1DD70"
+	},
 ]
