@@ -7,11 +7,11 @@ export const colour = [
 		"contrast" : "#7D8F69"
 	},
 	{
-		"name" : "Seafoam",
-		"main" : "#CCBCBC",
-		"dark" : "#323039",
-		"light" : "#FFFFFF",
-		"contrast" : "#18C3F8"
+		"name" : "Coral",
+		"main" : "#82CDE5",
+		"dark" : "#003458",
+		"light" : "#DFF8FE",
+		"contrast" : "#F01159"
 	},
 	{
 		"name" : "Candyfloss",
