@@ -1,4 +1,4 @@
-export const colour = [
+const colour = [
 	{
 		"name" : "Forest",
 		"main" : "#C8D7D2",
