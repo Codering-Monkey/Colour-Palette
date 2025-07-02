@@ -22,10 +22,10 @@ export const colour = [
 	},
 	{
 		"name" : "Earthen",
-		"main" : "#815B5B",
-		"dark" : "#594545",
-		"light" : "#FFF8EA",
-		"contrast" : "#9E7676"
+		"main" : "#DFD3C3",
+		"dark" : "#C7B198",
+		"light" : "#F0ECE3",
+		"contrast" : "#596E79"
 	},
 	{
 		"name" : "Retro",
