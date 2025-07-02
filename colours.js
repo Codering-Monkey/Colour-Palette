@@ -15,10 +15,10 @@ export const colour = [
 	},
 	{
 		"name" : "Candyfloss",
-		"main" : "#F4D2D2",
-		"dark" : "#F49FB6",
-		"light" : "#FAF8F0",
-		"contrast" : "#A6E0DE"
+		"main" : "#FA6E87",
+		"dark" : "#D23475",
+		"light" : "#FFF9FF",
+		"contrast" : "#FFF3D2"
 	},
 	{
 		"name" : "Earthen",
