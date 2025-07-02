@@ -69,4 +69,11 @@ export const colour = [
 		"light" : "#FCEEDD",
 		"contrast" : "#A1DD70"
 	},
+	{
+		"name" : "Arctic",
+		"main" : "#42CDE7",
+		"dark" : "#264F73",
+		"light" : "#EFF4F5",
+		"contrast" : "#FF7350"
+	},
 ]
