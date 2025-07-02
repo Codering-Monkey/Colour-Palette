@@ -83,4 +83,11 @@ export const colour = [
 		"light" : "#EDD1CB",
 		"contrast" : "#F95950"
 	},
+	{
+		"name" : "Pop",
+		"main" : "#F07B3F",
+		"dark" : "#EA5455",
+		"light" : "#FFD460",
+		"contrast" : "#2D4059"
+	},
 ]
