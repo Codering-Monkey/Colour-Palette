@@ -54,5 +54,12 @@ export const colour = [
 		"dark" : "#FD892D",
 		"light" : "#F0F7F1",
 		"contrast" : "#470D57"
-	}
+	},
+	{
+		"name" : "Ice Cream",
+		"main" : "#F8E2CF",
+		"dark" : "#FD665C",
+		"light" : "#FAF7F5",
+		"contrast" : "#AAD1D9"
+	},
 ]
